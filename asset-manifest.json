@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/jason-gh-pages/static/css/main.f87655dd.css",
-    "main.js": "/jason-gh-pages/static/js/main.6886ef02.js",
+    "main.css": "/jason-gh-pages/static/css/main.ff67d23d.css",
+    "main.js": "/jason-gh-pages/static/js/main.7d5b66fd.js",
     "static/js/787.c1e8879f.chunk.js": "/jason-gh-pages/static/js/787.c1e8879f.chunk.js",
     "static/media/unsplash.jpg": "/jason-gh-pages/static/media/unsplash.815673844876eea0f54b.jpg",
-    "static/media/unsplash2.jpg": "/jason-gh-pages/static/media/unsplash2.7c5e86e9e0415167ae16.jpg",
+    "static/media/sky.jpg": "/jason-gh-pages/static/media/sky.60aebf37abcee24df5b2.jpg",
+    "static/media/sky3.jpg": "/jason-gh-pages/static/media/sky3.57797c5f78fc004b8f6c.jpg",
+    "static/media/sky2.jpg": "/jason-gh-pages/static/media/sky2.1f623e8b95980f211573.jpg",
     "static/media/logo.svg": "/jason-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jason-gh-pages/index.html",
-    "main.f87655dd.css.map": "/jason-gh-pages/static/css/main.f87655dd.css.map",
-    "main.6886ef02.js.map": "/jason-gh-pages/static/js/main.6886ef02.js.map",
+    "main.ff67d23d.css.map": "/jason-gh-pages/static/css/main.ff67d23d.css.map",
+    "main.7d5b66fd.js.map": "/jason-gh-pages/static/js/main.7d5b66fd.js.map",
     "787.c1e8879f.chunk.js.map": "/jason-gh-pages/static/js/787.c1e8879f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87655dd.css",
-    "static/js/main.6886ef02.js"
+    "static/css/main.ff67d23d.css",
+    "static/js/main.7d5b66fd.js"
   ]
 }
