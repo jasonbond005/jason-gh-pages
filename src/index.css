@@ -1,13 +1,91 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Trirong');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Trirong", serif;
+  color: #333;
+  
 }
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  /* max-width: 600px; */
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h3 {
+  color: darkslategray;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: darkslategray;
+  
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+/* h1,h2,h3,h4,h5{
+  color:rgb(59, 95, 78);
+} */
+.darkHeading{
+  color: rgb(17, 22, 7);
+}
+.sliderText{
+  color: #f2f2f2;
+}
+.navHeading{
+  display:inline
+}
+.sliderHeight{
+  max-height: 60vh;
+}
+.footer {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  /* max-width: 600px; */
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .navlogo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .navlogocenter {
+    animation: App-logo-spin infinite 10s linear;
+    }
+    
+  }
+  .navlogocenter {
+    align-items: center;
+    }
+    .App-header {
+      
+      min-height: 100vh;
+      /* display: flex; */
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+     
+    }
